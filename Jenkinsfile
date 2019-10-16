@@ -2,7 +2,7 @@ node('master'){
 
    stage('git checkout'){
 
-                  git 'https://github.com/ajitesh17/INGPRODUCTS'
+                  git 'https://github.com/jyotheesh/sample.git'
 
               }
 
